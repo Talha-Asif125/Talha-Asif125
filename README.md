@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talha-Asif125
 - 👀 I’m interested in development including web and app development.
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning mobile application development and enterprise application development.
 - 📫 instagram:venom_x43, contact:+92 313 5541485
 
 <!---
